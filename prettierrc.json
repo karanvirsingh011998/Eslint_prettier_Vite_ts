@@ -1,0 +1,26 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "importOrderSeparation": true,
+    "importOrder": [
+      "^react(.*)",
+      "<THIRD_PARTY_MODULES>",
+      "^redux(.*)",
+      "^@/(.*)",
+      "^hooks/(.*)",
+      "^constants/(.*)",
+      "^interfaces/(.*)",
+      "^layouts/(.*)",
+      "^pages/(?!.*\\.styles$)(.*)",
+      "^assets/svg(.*)",
+      "^.*\\.svg$",
+      "^.*\\.png$",
+      "^.*\\.jpg$",
+      "^.*\\.jpeg$",
+      "^.*\\.styles$",
+      "^pages/(.*).styles",
+      "^[./]"
+    ]
+  }
+  
