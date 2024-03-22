@@ -1,1 +1,3 @@
-# Eslint_prettier_Vite_ts
+npx prettier --write .
+
+npx run lint
